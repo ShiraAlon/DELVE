@@ -119,11 +119,25 @@ python scripts/organize_notebooks.py
 
 ## Citation
 
-If you use this repository, please cite the DELVE paper associated with this code (<https://arxiv.org/pdf/2402.18741>)
-and include the repository URL:
+If you use DELVE in your research, please cite the associated paper:
 
-> Shira Yoffe, *DELVE*, research code, GitHub.
-> <https://github.com/ShiraAlon/DELVE>
+> Shira Yoffe, Amit Moscovich, and Ariel Jaffe. “Spectral Graph Filtering for
+> Modality-Specific Representation Learning.” arXiv:2402.18741, 2024.
+> <https://doi.org/10.48550/arXiv.2402.18741>
+
+```bibtex
+@article{yoffe2024spectral,
+  title   = {Spectral Graph Filtering for Modality-Specific Representation Learning},
+  author  = {Yoffe, Shira and Moscovich, Amit and Jaffe, Ariel},
+  journal = {arXiv preprint arXiv:2402.18741},
+  year    = {2024},
+  doi     = {10.48550/arXiv.2402.18741},
+  url     = {https://arxiv.org/abs/2402.18741}
+}
+```
+
+The implementation is available at
+<https://github.com/ShiraAlon/DELVE>.
 
 ## Contact
 
