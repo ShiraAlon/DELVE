@@ -124,9 +124,8 @@ and include the repository URL:
 
 > Shira Yoffe, *DELVE*, research code, GitHub.
 > <https://github.com/ShiraAlon/DELVE>
-
-The full paper citation and persistent identifier can be added here when available.
-
+><https://arxiv.org/pdf/2402.18741>
+> 
 ## Contact
 
 Questions about the code or experiments can be submitted through the repository’s
