@@ -1,0 +1,16 @@
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+seaborn
+networkx
+opencv-python
+umap-learn
+kneed
+h5py
+Pillow
+librosa
+jupyter
+notebook
+nbformat
