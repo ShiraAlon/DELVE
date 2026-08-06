@@ -119,13 +119,12 @@ python scripts/organize_notebooks.py
 
 ## Citation
 
-If you use this repository, please cite the DELVE paper associated with this code
+If you use this repository, please cite the DELVE paper associated with this code (<https://arxiv.org/pdf/2402.18741>)
 and include the repository URL:
 
 > Shira Yoffe, *DELVE*, research code, GitHub.
 > <https://github.com/ShiraAlon/DELVE>
-><https://arxiv.org/pdf/2402.18741>
-> 
+
 ## Contact
 
 Questions about the code or experiments can be submitted through the repository’s
